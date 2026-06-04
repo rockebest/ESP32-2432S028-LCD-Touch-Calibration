@@ -2,8 +2,6 @@
 
 Working test sketches for the **ESP32-2432S028** 2.8-inch TFT LCD board, including LCD color testing, raw touch reading, affine touch calibration, and calibrated touch testing.
 
-This repository was created for an **AITEXM ROBOT ESP32-2432S028** style board.
-
 ## Board images
 
 Place the board photos in the `images/` folder as shown below:
