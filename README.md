@@ -36,7 +36,6 @@ The board appearance may vary slightly depending on the seller or production bat
 ## Target board
 
 - Board: ESP32-2432S028
-- Seller/brand style: AITEXM ROBOT ESP32-2432S028
 - MCU: ESP32-WROOM series
 - Display: 2.8-inch 240×320 TFT LCD
 - Touch: XPT2046 resistive touch controller
